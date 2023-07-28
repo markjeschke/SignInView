@@ -1,5 +1,5 @@
 # SignUpView
-SwiftUI project demonstrating how to implement a Form with a header with a profile icon, a footer with a call-to-action button, and keeping text at the bottom of the screen when a textField is in focus.
+SwiftUI project demonstrating how to implement a Form with a header containing a profile icon, and a footer containing a call-to-action button, while keeping text at the bottom of the screen when a textField is in focus.
 
 https://github.com/markjeschke/markjeschke.github.io/assets/1577928/65d4e9e5-9bed-45da-9844-0a24eccfc293
 
